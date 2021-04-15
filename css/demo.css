@@ -244,11 +244,12 @@ a:focus {
 
 .title {
 	position: absolute;
-	font-size: 8vw;
+	font-size: 5vw;
 	margin: 0;
 	pointer-events: none;
 	bottom: 10%;
 	left: 35%;
+	color: #c61dc8;
 }
 
 .title--left {
@@ -330,4 +331,7 @@ a:focus {
 }
 .icon icon--drop {
 color:black;
+}
+.h2{
+	color:#c61dc8;
 }
